@@ -23,7 +23,7 @@ obj.mech(radius)
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/84f2c51f-5393-4300-a24c-07c88adc25df)
+![image](https://github.com/user-attachments/assets/407e71ef-c939-46b2-8e8d-085fc8a6fbd2)
 
 ## Result
 Thus,the program is executed successfully
