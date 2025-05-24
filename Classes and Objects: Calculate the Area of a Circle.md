@@ -15,9 +15,9 @@ To write a Python program that calculates the **area of a circle** based on the 
 import math
 class cse:
     def mech(self, r):
-        print(math.pi * r * r)
+        print("Area of circle:",math.pi * r * r)
 
-radius = float(input("Enter The Radius:"))
+radius = float(input())
 obj = cse()
 obj.mech(radius)
 ```
